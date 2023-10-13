@@ -2,6 +2,6 @@
 
 I am currently a graduate student at CS@UIUC. Please refer to [my homepage](https://pat-jj.github.io/) for more about me.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pat-jj&hide=issues,contribs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img height="140em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=pat-jj&count_private=false&show_icons=true&include_all_commits=true&hide=issues,contribs&theme=radical"/>
 
 I do reproducible research and develop useful software.
